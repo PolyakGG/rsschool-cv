@@ -1,1 +1,1 @@
-[# rsschool-cv](https://github.com/PolyakGG/rsschool-cv/blob/gh-pages/cv.md)
+[# rsschool-cv](https://polyakgg.github.io/rsschool-cv/cv)
