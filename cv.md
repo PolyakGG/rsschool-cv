@@ -13,7 +13,7 @@ I'm 25, I play for a living. The goal is to find a job in the IT industry.
  I know a little python, golang, js.
 
  ## Code Examples
-```
+```Golang
 package service
 
 import (
